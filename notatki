@@ -1,0 +1,18 @@
+===========definicja funkcji:
+def(zmienn):
+ return zmienna
+
+===========otwieranie pliku
+f = open("scores.txt", "w") (w przyapdku czytakia tylko z pliku 
+
+a potem tak:
+f.write(participant + "," + score + "\n")
+
+a czytanie np. tak:
+for line in f:
+
+==========zmienne
+lista 
+lista= []
+inna lista:
+lody = { "waldek" : "smietanka","monika":"mieta","kazio":"czekolada"}
