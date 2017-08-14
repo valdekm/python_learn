@@ -20,10 +20,3 @@ class Deck(object):
             print(card)
 
 
-a = Deck()
-#a.shuffle()
-a.reveal_cards()
-a.shuffle()
-print(a.deal())
-print("kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk")
-a.reveal_cards()
